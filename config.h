@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "UbuntuMono Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
-static char *font2[] = { "UbuntuMono Nerd Font Mono:pixelsize=16:antialias=true:autohint=true" };
+static char *font = "UbuntuMono Nerd Font Mono:pixelsize=20:antialias=true:autohint=true";
+static char *font2[] = { "UbuntuMono Nerd Font Mono:pixelsize=20:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
